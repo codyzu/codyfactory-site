@@ -1,0 +1,21 @@
+# Site settings
+title: Cody Factory
+description: Developer Relations Consulting
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Cody Zuschlag
+user_description: Developer Relations Engineer.
+user_title: Developer Relations Engineer.
+email: cody@codyfactory.eu
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+plugins:
+  - jekyll-redirect-from
